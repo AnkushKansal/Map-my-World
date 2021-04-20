@@ -2,34 +2,33 @@
 # Project 4: Map My World
 
 An application of [rtabmap-ros](http://wiki.ros.org/rtabmap_ros) package for 
-simultaneous localization and mapping (SLAM) of a mobile robot. 
-This project is part of Udacity Robotics Software Engineer Nanodegree.
+simultaneous localization and mapping (SLAM) of a mobile robot in an environment.
 
-<table style="width:100%">
+<table style="width:200%">
   <tr>
     <th><p>
-           <img src="Output_Images/Capture1.png"
-            alt="Capture1" width="400" height="200"></a>
+           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/Capture1.PNG"
+            alt="Capture1" width="400" height="400"></a>
            <br>Initial state
         </p>
     </th>
     <th><p>
-           <img src="Output_Images/Rviz 2D Map.png"
-            alt="Rviz 2D Map" width="200" height="200"></a>
+           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/Rviz%202D%20Map.PNG"
+            alt="Rviz 2D Map" width="400" height="400"></a>
            <br>2D Map
       </p>
     </th>
   </tr>
   <tr>
     <th><p>
-           <img src="Output_Images/Keypoint Detection.png"
-            alt="Keypoints Detection" width="400" height="200"></a>
+           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/Keypoint%20Detection.PNG"
+            alt="Keypoints Detection" width="400" height="400"></a>
            <br>Keypoints Detection
       </p>
     </th>
     <th><p>
-           <img src="Output_Images/Keypoint Detection with Loop Closure.png"
-            alt="Keypoint Detection with Loop Closure" width="200" height="200"></a>
+           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/Keypoint%20Detection%20with%20Loop%20Closure.PNG"
+            alt="Keypoint Detection with Loop Closure" width="400" height="400"></a>
            <br>Loop Closure
       </p>
     </th>
@@ -99,5 +98,4 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * Choose View -> Constraints View and Graph View
 * To see 3D Map, Choose Edit -> View 3D Map ...
     
-You could also open the database I already generated in this project. The number
-of loop closures can be found in [Keypoint Detection with Loop Closure.png](Output_Images/Keypoint Detection with Loop Closure.png).
+You could also open the database I already generated in this project. 
