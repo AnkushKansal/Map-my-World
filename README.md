@@ -8,13 +8,13 @@ This project is part of Udacity Robotics Software Engineer Nanodegree.
 <table style="width:100%">
   <tr>
     <th><p>
-           <img src="Output Images/Capture1.png"
+           <img src="Output_Images/Capture1.png"
             alt="Capture1" width="400" height="200"></a>
            <br>Initial state
         </p>
     </th>
     <th><p>
-           <img src="Output Images/Rviz 2D Map.png"
+           <img src="Output_Images/Rviz 2D Map.png"
             alt="Rviz 2D Map" width="200" height="200"></a>
            <br>2D Map
       </p>
@@ -22,13 +22,13 @@ This project is part of Udacity Robotics Software Engineer Nanodegree.
   </tr>
   <tr>
     <th><p>
-           <img src="Output Images/Keypoint Detection.png"
+           <img src="Output_Images/Keypoint Detection.png"
             alt="Keypoints Detection" width="400" height="200"></a>
            <br>Keypoints Detection
       </p>
     </th>
     <th><p>
-           <img src="Output Images/Keypoint Detection with Loop Closure.png"
+           <img src="Output_Images/Keypoint Detection with Loop Closure.png"
             alt="Keypoint Detection with Loop Closure" width="200" height="200"></a>
            <br>Loop Closure
       </p>
@@ -100,4 +100,4 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * To see 3D Map, Choose Edit -> View 3D Map ...
     
 You could also open the database I already generated in this project. The number
-of loop closures can be found in [Keypoint Detection with Loop Closure.png](Output Images/Keypoint Detection with Loop Closure.png).
+of loop closures can be found in [Keypoint Detection with Loop Closure.png](Output_Images/Keypoint Detection with Loop Closure.png).
