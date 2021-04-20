@@ -100,4 +100,4 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * To see 3D Map, Choose Edit -> View 3D Map ...
     
 You could also open the database I already generated in this project. The number
-of loop closures can be found in [overview.png](Output Images/Keypoint Detection with Loop Closure).
+of loop closures can be found in [Keypoint Detection with Loop Closure.png](Output Images/Keypoint Detection with Loop Closure.png).
