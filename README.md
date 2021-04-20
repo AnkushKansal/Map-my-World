@@ -8,14 +8,14 @@ This project is part of Udacity Robotics Software Engineer Nanodegree.
 <table style="width:100%">
   <tr>
     <th><p>
-           <img src="Output Images/Capture.png"
-            alt="Initial State" width="400" height="200"></a>
+           <img src="Output Images/Capture1.png"
+            alt="Capture1" width="400" height="200"></a>
            <br>Initial state
         </p>
     </th>
     <th><p>
            <img src="Output Images/Rviz 2D Map.png"
-            alt="2D map" width="200" height="200"></a>
+            alt="Rviz 2D Map" width="200" height="200"></a>
            <br>2D Map
       </p>
     </th>
@@ -29,7 +29,7 @@ This project is part of Udacity Robotics Software Engineer Nanodegree.
     </th>
     <th><p>
            <img src="Output Images/Keypoint Detection with Loop Closure.png"
-            alt="Loop Closure" width="200" height="200"></a>
+            alt="Keypoint Detection with Loop Closure" width="200" height="200"></a>
            <br>Loop Closure
       </p>
     </th>
