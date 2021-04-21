@@ -98,4 +98,4 @@ $ rtabmap-databaseViewer ~/.ros/rtabmap.db
 * Choose View -> Constraints View and Graph View
 * To see 3D Map, Choose Edit -> View 3D Map ...
     
-You could also open the database I already generated in this project. 
+You could also open the database I already generated in this project attached as a .rar.
