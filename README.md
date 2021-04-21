@@ -13,9 +13,9 @@ simultaneous localization and mapping (SLAM) of a mobile robot in an environment
         </p>
     </th>
     <th><p>
-           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/Rviz%202D%20Map.PNG"
-            alt="Rviz 2D Map" width="400" height="400"></a>
-           <br>2D Map
+           <img src="https://github.com/AnkushKansal/Map-my-World/blob/master/Output_Images/3D%20Map.PNG"
+            alt="3D Map" width="400" height="400"></a>
+           <br>3D Map
       </p>
     </th>
   </tr>
